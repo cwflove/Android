@@ -12,6 +12,7 @@ public class SerializableImplementImpl implements Serializable {
 
     /**
      * 生成序列号标识
+     * File-->settings-->inspections-->Serializable class without 'serialVersionUID'
      */
     private static final long serialVersionUID = -7922115673957847636L;
 
