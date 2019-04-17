@@ -1,4 +1,4 @@
-package git.example.dell.mvp.model;
+package git.example.dell.androidcode.model;
 
 /**
  * @author 陈伟飞

@@ -1,9 +1,10 @@
-package git.example.dell.mvp.model;
+package git.example.dell.androidcode.model;
 
 import android.util.Log;
 
-import git.example.dell.mvp.contract.Contract;
-import git.example.dell.mvp.asynctaskutils.AsyncTaskUtils;
+import git.example.dell.androidcode.asynctaskutils.AsyncTaskUtils;
+import git.example.dell.androidcode.contract.Contract;
+
 
 /**
  * @author 陈伟飞

@@ -1,7 +1,8 @@
-package git.example.dell.mvp.presenter;
+package git.example.dell.androidcode.presenter;
 
-import git.example.dell.mvp.contract.Contract;
-import git.example.dell.mvp.model.Model;
+
+import git.example.dell.androidcode.contract.Contract;
+import git.example.dell.androidcode.model.Model;
 
 /**
  * @author 陈伟飞

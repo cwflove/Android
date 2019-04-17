@@ -1,4 +1,4 @@
-package git.example.dell.mvp.contract;
+package git.example.dell.androidcode.contract;
 
 /**
  * @author 陈伟飞
